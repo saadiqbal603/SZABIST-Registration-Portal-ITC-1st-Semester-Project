@@ -63,11 +63,6 @@ This project is a basic **web-based registration form** for SZABIST university b
 
 ---
 
-## 📸 Screenshots (optional)
-
-> You can add screenshots of the UI here if available.
-
----
 
 ## 🚀 How to Run
 
